@@ -1,2 +1,2 @@
 # Lab1-java
-first 2 weeks java ex
+first 2 weeks java exercises
